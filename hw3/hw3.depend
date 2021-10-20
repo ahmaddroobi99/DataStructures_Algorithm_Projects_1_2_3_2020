@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575298619 source:c:\users\ahmad\desktop\hw3\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+

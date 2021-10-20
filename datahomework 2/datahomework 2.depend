@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1572600758 source:c:\users\ahmad\desktop\datahomework 2\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+
+1572600760 source:d:\datahomework 2\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+
